@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code & Work AI - Офіційна сторінка</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            color: #666;
+        }
+        .link {
+            display: block;
+            margin-top: 20px;
+            font-size: 18px;
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ласкаво просимо на офіційну сторінку Code & Work AI</h1>
+        <p>Цей сайт використовується для авторизації API Google Cloud.</p>
+        <p><strong>Наш бот допомагає у програмуванні, бізнес-аналітиці та автоматизації.</strong></p>
+        <p>Ви можете переглянути:</p>
+        <a class="link" href="https://docs.google.com/document/d/1cF5_Placeholder_Link/edit?usp=sharing" target="_blank">📜 Політику конфіденційності</a>
+        <a class="link" href="https://docs.google.com/document/d/1cF5_Placeholder_Link/edit?usp=sharing" target="_blank">📜 Умови використання</a>
+        <a class="link" href="mailto:support@yourbot.com">📧 Контакти підтримки</a>
+    </div>
+</body>
+</html>
